@@ -12,7 +12,9 @@ A menu-driven command-line calculator built in C language.
 gcc "Task1 Basic Calculator .c" -o calculator
 ./calculator
 
-### ✅ Task 3 - Student Record Management System - COMPLETED
+---
+
+## ✅ Task 3 - Student Record Management System - COMPLETED
 A C program to manage student records using CRUD operations with file handling.
 
 ### ✨ Features
@@ -27,7 +29,5 @@ A C program to manage student records using CRUD operations with file handling.
 gcc "Task3 Student Management System" -o student_system
 ./student_system
 
-### 📸 Output Screenshot
-![Student Management System Output](output%20student%20management%20system.jpeg)
 ### 📸 Output Screenshot
 ![Student Management System Output](output%20student%20management%20system.jpeg)
