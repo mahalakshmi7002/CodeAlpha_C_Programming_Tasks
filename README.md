@@ -30,4 +30,4 @@ gcc "Task3 Student Management System" -o student_system
 ./student_system
 
 ### 📸 Output Screenshot
-![Student Management System Output](output%20student%20management%20system.jpeg)
+![Student Management System Output](output%20student%20management%20systems.jpeg)
